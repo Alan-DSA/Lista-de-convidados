@@ -25,12 +25,14 @@ O programa não salva a lista de convidados entre as execuções, então ela ser
 ## Screenshots
 
 Tela inicial do programa
+
 ![image](https://user-images.githubusercontent.com/69442882/215297992-51376fbf-d51b-4f6a-97be-237153f5e8dd.png)
 
 Tela com o nome do Convidado adicionado
 ![image](https://user-images.githubusercontent.com/69442882/215298016-d1fa8a9e-e78c-451d-9f5f-edbde5cd2a75.png)
 
 Tela de remoção do convidado
+
 ![image](https://user-images.githubusercontent.com/69442882/215298051-91e1558f-39aa-4308-9af9-8f9b4d48c7cb.png)
 
 ![image](https://user-images.githubusercontent.com/69442882/215298055-793dbedc-36d9-45c1-b87d-efa700a8ce24.png)
