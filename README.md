@@ -18,7 +18,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## Notas
 Certifique-se de ter os pré requisitos instalados antes de executar o programa.
-O arquivo PDF gerado será salvo como convidados.pdf no mesmo diretório do arquivo convidados.py.
+O arquivo PDF gerado será salvo como convidados.pdf no mesmo diretório do arquivo lista de convidados.py.
 O programa não salva a lista de convidados entre as execuções, então ela será perdida quando o programa for fechado.
 
     
