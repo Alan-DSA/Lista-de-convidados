@@ -39,12 +39,15 @@ Tela de remoção do convidado
 ![image](https://user-images.githubusercontent.com/69442882/215298055-793dbedc-36d9-45c1-b87d-efa700a8ce24.png)
 
 Tela de informação da lista gerada
+
 ![image](https://user-images.githubusercontent.com/69442882/215298071-1d52439b-3b89-490c-a90b-45ad7d32d04d.png)
 
 Tela de visualização da lista de convidados
+
 ![image](https://user-images.githubusercontent.com/69442882/215298151-ac68c0e3-1c4d-4b87-aa99-7b184e7f222e.png)
 
 Visualização do arquivo em formato pdf
+
 ![image](https://user-images.githubusercontent.com/69442882/215298181-8c9b758f-2347-4982-a8ff-c73fb3e7acb4.png)
 
 
