@@ -29,6 +29,7 @@ Tela inicial do programa
 ![image](https://user-images.githubusercontent.com/69442882/215297992-51376fbf-d51b-4f6a-97be-237153f5e8dd.png)
 
 Tela com o nome do Convidado adicionado
+
 ![image](https://user-images.githubusercontent.com/69442882/215298016-d1fa8a9e-e78c-451d-9f5f-edbde5cd2a75.png)
 
 Tela de remoção do convidado
