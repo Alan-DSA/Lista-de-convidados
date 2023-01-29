@@ -69,3 +69,4 @@ convidados = []
 
 # Inicia a janela
 janela.mainloop()
+
